@@ -1,14 +1,14 @@
 # :books: Histórias de Usuários
 
-#### Contexto
+### Contexto
 
 Um site para fazer o cadastro de cursos online ou presencial.
 
-#### História de Usuário: Cadastrar Curso
+### História de Usuário: Cadastrar Curso
 
 Como usuário do site Beedoo QA Challenge, Quero cadastrar meus cursos de maneira simples, rápida e com informações detalhadas sobre os conteúdos que serão ensinados, Para que os alunos possam encontrar e se inscrever nos cursos de forma eficaz.
 
-#### Regra de Negócio
+### Regra de Negócio
 
 **1. Disponibilidade da informação:**
 
@@ -26,7 +26,7 @@ O formulário deve validar as informações inseridas, garantindo que todos os c
 
 Após o cadastro bem-sucedido, uma mensagem de confirmação 	deve 	ser exibida ao usuário.
 
-#### Critério de aceite
+### Critério de aceite
 
 - **Cenário 1: Cadastrar o Curso com Sucesso**
 
