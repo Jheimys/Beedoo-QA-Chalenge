@@ -6,7 +6,8 @@ Um site para fazer o cadastro de cursos online ou presencial.
 
 ### História de Usuário: Cadastrar Curso
 
-Como usuário do site Beedoo QA Challenge, Quero cadastrar meus cursos de maneira simples, rápida e com informações detalhadas sobre os conteúdos que serão ensinados, Para que os alunos possam encontrar e se inscrever nos cursos de forma eficaz.
+Como professor, criador de conteúdos digitais e usuário do site Beedoo QA Challenge, Quero cadastrar meus cursos de maneira simples e rápida, com uma descrição detalhada dos conteúdos que serão ensinados, Para que os alunos possam facilmente encontrar cursos que atendam às suas necessidades e se inscreverem.
+
 
 ### Regra de Negócio
 
