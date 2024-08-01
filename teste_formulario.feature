@@ -249,7 +249,7 @@ When eu preencho "Instrutor" com "João da Silva @123"
 And eu clico no botão "Cadastrar Curso"
 Then eu devo ver uma mensagem de erro "O campo Instrutor contém caracteres especiais inválidos"
 
-# teste ID: 
+# teste ID: 22
 Scenario: Cadastro com "Instrutor" contendo caracteres em outros idiomas
 Given que estou na página de cadastro de curso
 When eu preencho "Instrutor" com "加布里埃爾F加布爾"
